@@ -33,3 +33,9 @@ Rather than generating raster PNG snapshots that blur when browsers rescale marg
 - [Cursive Worksheets Library](https://printcursive.com/worksheets) — Categorized phonics, vocabulary, and historical quote copywork packs.
 - [Dolch Sight Words Cursive Practice](https://printcursive.com/worksheets/sight-words) — High-frequency elementary words formatted with continuous join strokes.
 - [Cursive Penmanship Certificate Generator](https://printcursive.com/certificate) — Printable classroom achievement certificates for handwriting milestones.
+
+## Companion Monograph & Distribution
+
+- **Technical Monograph (Telegraph)**: [Vector Cursive Ruling Geometry: Zaner-Bloser 14°, D’Nealian 29°, and HWT Double-Line Tracks](https://telegra.ph/Vector-Cursive-Ruling-Geometry-Zaner-Bloser-14-DNealian-29-and-HWT-Double-Line-Tracks-11-18)
+- **Homebrew Tap Distribution**: [`AbigailDavised/homebrew-printcursive`](https://github.com/AbigailDavised/homebrew-printcursive)
+- **Interactive Vector Worksheet Engine**: [PrintCursive (printcursive.com)](https://printcursive.com)
